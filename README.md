@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jiwon Kim
 
-<!--
-**jiiwon129/jiiwon129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Statistics @ Ewha Womans University  
+Interested in Data Analytics & Statistical Modeling
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Statistics major with experience in data analysis and machine learning projects
+- Mainly working with **Python, R, SQL, and Power BI**
+- Interested in understanding data characteristics, implementing analytical methods, and validating results
+- Building experience across coursework, competitions, and research projects
+
+## Skills
+
+**Languages & Tools**  
+Python · R · SQL · Power BI
+
+## Selected Projects
+
+### Interests
+
+Data Analytics · Statistical Analysis · Machine Learning · Business Analytics
