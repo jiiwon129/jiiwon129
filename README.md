@@ -1,4 +1,4 @@
-# 김지원 Jiwon Kim
+# Jiwon Kim
 
 Statistics @ Ewha Womans University  
 Interested in Data Analytics & Statistical Modeling
