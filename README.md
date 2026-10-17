@@ -2,7 +2,7 @@
 
 Statistics @ Ewha Womans University
 
-## Featured Projects
+## Projects
 
 ### [Smart Factory Power Forecasting](https://github.com/jiiwon129/Smart-Factory-Power-Forecasting)
 스마트팩토리 설비별 전력 패턴을 분석하고, **K-means 군집화와 클러스터·공정 전체 예측을 결합한 앙상블**을 통해 전력 수요 및 운영 비효율을 분석한 프로젝트
