@@ -21,7 +21,6 @@ POSTECH FBDA(Financial Big Data Analysis) LAB 인턴에서 **S&P 500 주요 200�
 
 ## Skills
 
-**Programming** 
 Python · R · SQL · Power BI
 
 ## Other Repositories
